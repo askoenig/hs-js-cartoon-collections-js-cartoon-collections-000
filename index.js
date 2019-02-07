@@ -23,11 +23,6 @@ function longPlaneteerCalls(words) {
     }
   }
   return false
-  // if (words.length <= 4) 
-  // return false;
-  // else {
-  //   return true;
-  //}
 }
 
 
